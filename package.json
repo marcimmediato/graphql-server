@@ -5,7 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "graphql-yoga": "^1.16.7",
-    "nodemon": "^1.18.8"
+    "nodemon": "^1.18.8",
+    "prisma-binding": "^2.2.10"
   },
   "scripts": {
     "watch": "nodemon src/index.js"
